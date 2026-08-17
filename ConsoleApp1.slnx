@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="baitapsession02/baitapsession02.csproj" Id="36c25b06-f752-4654-b397-5c563f01de34" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="session2/session2.csproj" Id="a04204c8-a701-4454-8463-a5f4330f4459" />
 </Solution>
