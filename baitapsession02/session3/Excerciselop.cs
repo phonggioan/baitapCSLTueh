@@ -74,7 +74,7 @@ internal class Excerciselop
                     string str2 = Console.ReadLine();
                     int test2;
                     bool b = int.TryParse(str2, out test2);
-                    if (b == true)
+                    if (b == true && (y = int.Parse(str2)) != 0)
                     {
                         y = int.Parse(str2);
                         break;
@@ -94,8 +94,9 @@ internal class Excerciselop
         int tong = x + y;
         int hieu = x - y;
         int tich = x * y;
-        int thuong = x % y;
-        Console.WriteLine($"tong = {tong}, hieu = {hieu}, tich = {tich}, thuong = {thuong}");
+        int thuong = x / y;
+        int du = x % y;
+        Console.WriteLine($"x+y = {tong}, x-y = {hieu}, x*y = {tich}, x/y = {thuong}, x%y = {du}");
         Console.ReadKey();
     }
     private static void Main1(string[] args)

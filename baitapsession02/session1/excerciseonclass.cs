@@ -5,7 +5,7 @@ using System.Text;
 
     internal class excerciseonclass
 {
-    private static void Main(string[] args)
+    private static void Main1(string[] args)
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("em yeu ueh");

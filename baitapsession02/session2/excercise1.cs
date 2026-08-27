@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 internal class excercise1
 {
-    private static void Main(string[] args)
+    private static void Main1(string[] args)
     {
         Console.WriteLine("C1");
         Console.WriteLine("Enter x");
