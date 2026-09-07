@@ -64,7 +64,7 @@ internal class homeworksession4
         Console.ReadKey();
     }
 
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
         //bai1 ();
         //bai2 ();
