@@ -111,9 +111,12 @@ internal class FileName
             Console.WriteLine();
             space++;
         }
-    }
+        }
     static void Main1(string[] args)
     {
+        bai1();
+        bai2();
+        bai3();
         bai4();
 
 
