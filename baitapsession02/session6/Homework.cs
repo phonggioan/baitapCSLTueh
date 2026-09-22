@@ -224,7 +224,7 @@ namespace session6
                 
             
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //int a = 1, b = 2;
             //Console.WriteLine(TinhTong(a, b));
