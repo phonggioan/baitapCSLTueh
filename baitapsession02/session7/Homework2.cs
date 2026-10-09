@@ -78,7 +78,7 @@ namespace session7
                 result[1, i] =  dimensions[dimensions.GetLength(0) -i-1,i];
             return result;
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Enter n row and m col for dimensional array");
             int n = int.Parse(Console.ReadLine());
