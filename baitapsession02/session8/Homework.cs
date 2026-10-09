@@ -152,7 +152,7 @@ namespace session8
             }
             Console.WriteLine(str);
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string str = Print();
             Console.WriteLine(str);
